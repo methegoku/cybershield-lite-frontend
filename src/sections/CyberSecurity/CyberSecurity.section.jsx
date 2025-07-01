@@ -65,7 +65,7 @@ const CyberSecurity = () => {
   };
 
   return (
-    <section id="#scanweb" className="w-full min-h-screen flex justify-center items-center bg-gradient-to-br from-purple-50 to-blue-50 p-4">
+    <section id="scanweb" className="w-full min-h-screen flex justify-center items-center bg-gradient-to-br from-purple-50 to-blue-50 p-4">
       <form
         onSubmit={handleSubmit}
         className="bg-white shadow-lg rounded-2xl p-8 w-full max-w-md"
